@@ -1,3 +1,4 @@
+import "@/styles/global"
 import { View, Text, Image, Pressable } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import Feather from "@expo/vector-icons/Feather";
